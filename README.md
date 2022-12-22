@@ -2,6 +2,16 @@
 code files for kaggle competition, understanding NFL plays through Data Mining and Machine Learning
 
 
+<h2>Defending the Edge: Evaluating OT Performance through Euclidean Measurements</h2>
+Michael McCarron, Data Science Engineer (macciarain@protonmail.com)
+
+Abstract: 
+   NFL data used in the Kaggle competition NFL Databowl is based in x,y coordinates, this allows for the measuring of player positions in relation to each other to be easily measured using Euclidean Distance (d).  The problem of automated analysis of Offensive Lines remains a problem in NFL analytics. I develop a series of metrics to automate analysis using Euclidean Distances. I develop a proof of concept by focusing on the edge rush from Defensive Ends that are mitigated through the blocking by the Offensive Tackle (OT) position. 
+
+[ READ PAPER FOR MORE INFORMATION ]
+
+
+
 
 Index of Football Analystics from <a href="https://github.com/tuckerboynton22/nflfastr_app">https://github.com/tuckerboynton22/nflfastr_app</a>
  
