@@ -1,5 +1,4 @@
 # NFL_Big_Data_Bowl_23
-code files for kaggle competition, understanding NFL plays through Data Mining and Machine Learning
 
 
 <h2>Defending the Edge: Evaluating OT Performance through Euclidean Measurements</h2>
@@ -11,7 +10,7 @@ Abstract:
 [ <a href="https://github.com/autonomous019/NFL_Big_Data_Bowl_23/blob/main/Defending%20the%20Edge_%20Evaluating%20OT%20Performance%20through%20Euclidean%20Measurements.pdf">READ PAPER FOR MORE INFORMATION</a> ]
 
 
-
+<hr>
 
 Index of Football Analystics from <a href="https://github.com/tuckerboynton22/nflfastr_app">https://github.com/tuckerboynton22/nflfastr_app</a>
  
