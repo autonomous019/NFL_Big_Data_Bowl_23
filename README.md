@@ -10,7 +10,7 @@ Abstract:
 
   NFL data used in the Kaggle competition NFL Databowl is based in x,y coordinates, this allows for the measuring of player positions in relation to each other to be easily measured using Euclidean Distance (d).  The problem of automated analysis of Offensive Lines remains a problem in NFL analytics. I develop a series of metrics to automate analysis using Euclidean Distances. I develop a proof of concept by focusing on the edge rush from Defensive Ends that are mitigated through the blocking by the Offensive Tackle (OT) position. 
 
-[ <a href="https://github.com/autonomous019/NFL_Big_Data_Bowl_23/blob/main/Defending%20the%20Edge_%20Evaluating%20OT%20Performance%20through%20Euclidean%20Measurements.pdf">READ PAPER FOR MORE INFORMATION</a> ] [ <a href="https://www.sonrai.a2hosted.com/oline/">Interactive Web Site with Data, Plots and Statistics</a> ]
+[ <a href="https://github.com/autonomous019/NFL_Big_Data_Bowl_23/blob/main/Defending%20the%20Edge_%20Evaluating%20OT%20Performance%20through%20Euclidean%20Measurements.pdf">READ PAPER FOR MORE INFORMATION</a> ] [ <a href="https://feirmeoirsonrai.me/oline/">Interactive Web Site with Data, Plots and Statistics</a> ]
 
 
 
